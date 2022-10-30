@@ -1,4 +1,4 @@
-# viccy3-dumps
+# viccy3-docs-dump
 
 ## CSV
 This is where useful dumps of the Object Inspector go; it mostly duplicates what is available in the docs-logs, but it's much easier to parse and sort
